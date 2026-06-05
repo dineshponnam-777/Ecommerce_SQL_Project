@@ -1,0 +1,351 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product_Name,Quantity,Unit_Price,Sales,Cost,Profit,Profit_Margin_%,Region,State,City,Payment_Method,Shipping_Mode,Delivery_Status,Customer_Segment
+ORD1001,2025-06-23,CUST2001,Armaan Subramanian,Electronics,Wireless Mouse,6,4806,28836,18855.17,9980.83,34.61239423,South,Telangana,Hyderabad,Net Banking,Standard,Returned,Corporate
+ORD1002,2025-06-24,CUST2002,Fateh Chaudry,Electronics,Wireless Mouse,1,3882,3882,2527.9,1354.1,34.88150438,North,Punjab,Amritsar,Net Banking,Express,Delivered,Corporate
+ORD1003,2025-06-25,CUST2003,Damini Gour,Beauty,Hair Dryer,1,12732,12732,9896.33,2835.67,22.27199183,West,Rajasthan,Jaipur,Credit Card,Standard,Pending,Consumer
+ORD1004,2025-06-26,CUST2004,Fateh Choudhry,Electronics,Webcam,1,6181,6181,4861.04,1319.96,21.35512053,East,West Bengal,Kolkata,Net Banking,Standard,Pending,Consumer
+ORD1005,2025-06-27,CUST2005,Farhan Taneja,Beauty,Hair Dryer,6,10433,62598,49752.85,12845.15,20.52006454,East,Odisha,Bhubaneswar,UPI,Standard,Returned,Consumer
+ORD1006,2025-06-28,CUST2006,Neysa Sankaran,Grocery,Organic Rice,2,14496,28992,18039.41,10952.59,37.77797323,East,Jharkhand,Ranchi,Debit Card,Standard,Pending,Corporate
+ORD1007,2025-06-29,CUST2007,Rania Lad,Fashion,Formal Shirt,3,11798,35394,28529.83,6864.17,19.39359778,North,Punjab,Amritsar,Credit Card,Standard,Pending,Corporate
+ORD1008,2025-06-30,CUST2008,Mehul De,Grocery,Healthy Snacks,6,9425,56550,36662.23,19887.77,35.16847038,East,West Bengal,Kolkata,UPI,Express,Pending,Corporate
+ORD1009,2025-07-01,CUST2009,Alia Comar,Electronics,Keyboard,5,14658,73290,55549.51,17740.49,24.20588075,South,Andhra Pradesh,Vijayawada,COD,Standard,Pending,Consumer
+ORD1010,2025-07-02,CUST2010,Vivaan Malhotra,Fashion,Formal Shirt,5,9130,45650,30028.71,15621.29,34.21969332,West,Goa,Panaji,Credit Card,Standard,Returned,Corporate
+ORD1011,2025-07-03,CUST2011,Stuvan Borra,Electronics,Wireless Mouse,1,2804,2804,2069.46,734.54,26.19614836,West,Maharashtra,Mumbai,COD,Express,Returned,Corporate
+ORD1012,2025-07-04,CUST2012,Farhan Badal,Beauty,Skin Care Kit,6,12108,72648,45419.63,27228.37,37.4798618,East,Assam,Guwahati,Debit Card,Express,Delivered,Corporate
+ORD1013,2025-07-05,CUST2013,Madhav Solanki,Electronics,Monitor,5,12783,63915,40861.08,23053.92,36.06965501,North,Uttar Pradesh,Lucknow,Net Banking,Standard,Delivered,Corporate
+ORD1014,2025-07-06,CUST2014,Uthkarsh Reddy,Fashion,Sneakers,5,309,1545,1130.58,414.42,26.82330097,West,Maharashtra,Mumbai,Debit Card,Express,Delivered,Consumer
+ORD1015,2025-07-07,CUST2015,Farhan Vaidya,Fashion,Sneakers,1,1703,1703,1296.02,406.98,23.89782736,North,Punjab,Amritsar,COD,Standard,Pending,Home Office
+ORD1016,2025-07-08,CUST2016,Taimur Loyal,Beauty,Lipstick Set,2,9135,18270,13997.71,4272.29,23.38418172,South,Tamil Nadu,Chennai,Debit Card,Express,Returned,Corporate
+ORD1017,2025-07-09,CUST2017,Lakshit Badal,Electronics,Keyboard,2,1349,2698,1819.47,878.53,32.56226835,South,Karnataka,Bengaluru,UPI,Standard,Delivered,Consumer
+ORD1018,2025-07-10,CUST2018,Khushi Venkatesh,Electronics,Tablet,1,8723,8723,5690.55,3032.45,34.76384271,West,Gujarat,Ahmedabad,Credit Card,Express,Delivered,Corporate
+ORD1019,2025-07-11,CUST2019,Bhavin Chauhan,Furniture,Study Table,1,1888,1888,1406.52,481.48,25.50211864,East,Jharkhand,Ranchi,COD,Standard,Returned,Home Office
+ORD1020,2025-07-12,CUST2020,Saksham Raval,Electronics,Wireless Mouse,4,12231,48924,33006.41,15917.59,32.53534053,North,Punjab,Amritsar,Credit Card,Express,Delivered,Corporate
+ORD1021,2025-07-13,CUST2021,Romil Dhar,Fashion,Handbag,4,4392,17568,13920.65,3647.35,20.76132741,North,Haryana,Gurugram,UPI,Standard,Returned,Home Office
+ORD1022,2025-07-14,CUST2022,Fateh Wable,Electronics,Bluetooth Speaker,2,3024,6048,4169.56,1878.44,31.05886243,West,Gujarat,Ahmedabad,UPI,Standard,Pending,Consumer
+ORD1023,2025-07-15,CUST2023,Lakshay Deshmukh,Furniture,Bookshelf,4,4973,19892,13786.38,6105.62,30.69384677,West,Gujarat,Ahmedabad,Debit Card,Standard,Delivered,Home Office
+ORD1024,2025-07-16,CUST2024,Kabir Solanki,Beauty,Skin Care Kit,6,5438,32628,19987.14,12640.86,38.74236852,West,Gujarat,Ahmedabad,Net Banking,Standard,Delivered,Consumer
+ORD1025,2025-07-17,CUST2025,Zeeshan Sem,Beauty,Skin Care Kit,6,14420,86520,56388.97,30131.03,34.82550855,North,Punjab,Amritsar,Net Banking,Standard,Returned,Consumer
+ORD1026,2025-07-18,CUST2026,Aarav Gokhale,Furniture,Bedside Table,5,9560,47800,34177.58,13622.42,28.49878661,East,Odisha,Bhubaneswar,Debit Card,Standard,Pending,Corporate
+ORD1027,2025-07-19,CUST2027,Zara Desai,Fashion,Formal Shirt,6,5215,31290,21921.44,9368.56,29.94106743,North,Delhi,New Delhi,Net Banking,Standard,Delivered,Home Office
+ORD1028,2025-07-20,CUST2028,Azad Deep,Fashion,Sneakers,3,2470,7410,5967.4,1442.6,19.4682861,North,Punjab,Amritsar,Debit Card,Standard,Pending,Home Office
+ORD1029,2025-07-21,CUST2029,Urvi Dalal,Grocery,Tea Pack,6,8966,53796,32370.19,21425.81,39.82788683,East,West Bengal,Kolkata,Debit Card,Standard,Delivered,Home Office
+ORD1030,2025-07-22,CUST2030,Navya Taneja,Beauty,Perfume Set,3,4916,14748,10811.21,3936.79,26.69372118,East,Odisha,Bhubaneswar,Debit Card,Express,Pending,Consumer
+ORD1031,2025-07-23,CUST2031,Kashvi Sarin,Electronics,Webcam,3,1022,3066,1841.99,1224.01,39.92204827,South,Tamil Nadu,Chennai,COD,Express,Returned,Consumer
+ORD1032,2025-07-24,CUST2032,Aradhya Deo,Electronics,Bluetooth Speaker,6,2742,16452,11845.93,4606.07,27.99702164,East,Odisha,Bhubaneswar,Credit Card,Standard,Pending,Corporate
+ORD1033,2025-07-25,CUST2033,Jiya Kala,Electronics,Tablet,2,11474,22948,15028.57,7919.43,34.5103277,North,Uttar Pradesh,Lucknow,COD,Standard,Delivered,Consumer
+ORD1034,2025-07-26,CUST2034,Samaira Manda,Fashion,Jeans,1,3238,3238,2467.5,770.5,23.79555281,East,Jharkhand,Ranchi,Credit Card,Express,Delivered,Home Office
+ORD1035,2025-07-27,CUST2035,Samaira Apte,Electronics,Webcam,1,14367,14367,10107.93,4259.07,29.64481103,South,Andhra Pradesh,Vijayawada,Debit Card,Standard,Delivered,Consumer
+ORD1036,2025-07-28,CUST2036,Yuvaan Dutta,Fashion,Jeans,3,4864,14592,11529.98,3062.02,20.98423794,East,Assam,Guwahati,Net Banking,Express,Returned,Home Office
+ORD1037,2025-07-29,CUST2037,Trisha Boase,Grocery,Organic Rice,1,14669,14669,11933.06,2735.94,18.65116913,South,Tamil Nadu,Chennai,UPI,Express,Pending,Home Office
+ORD1038,2025-07-30,CUST2038,Kismat Suresh,Grocery,Coffee Powder,5,8679,43395,27141.06,16253.94,37.45578984,South,Tamil Nadu,Chennai,COD,Standard,Returned,Home Office
+ORD1039,2025-07-31,CUST2039,Shanaya Chakraborty,Fashion,Handbag,4,1446,5784,4677.82,1106.18,19.12482711,East,Assam,Guwahati,UPI,Express,Returned,Corporate
+ORD1040,2025-08-01,CUST2040,Kiaan Kara,Furniture,Bookshelf,4,11723,46892,31185.25,15706.75,33.4955856,South,Karnataka,Bengaluru,COD,Standard,Returned,Home Office
+ORD1041,2025-08-02,CUST2041,Divit Garg,Grocery,Coffee Powder,5,13959,69795,41883.23,27911.77,39.99107386,East,Odisha,Bhubaneswar,Net Banking,Express,Pending,Corporate
+ORD1042,2025-08-03,CUST2042,Sana Dora,Furniture,Bedside Table,2,8675,17350,12216.15,5133.85,29.58991354,South,Telangana,Hyderabad,Net Banking,Express,Delivered,Consumer
+ORD1043,2025-08-04,CUST2043,Manjari Gokhale,Grocery,Dry Fruits Pack,2,2714,5428,3285.97,2142.03,39.46260133,South,Andhra Pradesh,Vijayawada,UPI,Express,Pending,Home Office
+ORD1044,2025-08-05,CUST2044,Ishaan Thakur,Beauty,Perfume Set,6,11709,70254,48087.13,22166.87,31.55246676,West,Gujarat,Ahmedabad,UPI,Standard,Pending,Consumer
+ORD1045,2025-08-06,CUST2045,Darshit Cheema,Fashion,Winter Hoodie,6,8786,52716,37017.23,15698.77,29.77989605,South,Telangana,Hyderabad,Credit Card,Express,Returned,Home Office
+ORD1046,2025-08-07,CUST2046,Saanvi Baral,Beauty,Shampoo Combo,3,12674,38022,30269.84,7752.16,20.38861712,West,Goa,Panaji,COD,Express,Pending,Consumer
+ORD1047,2025-08-08,CUST2047,Arnav Singhal,Grocery,Tea Pack,4,10568,42272,27588.15,14683.85,34.73658687,West,Maharashtra,Mumbai,Credit Card,Express,Pending,Corporate
+ORD1048,2025-08-09,CUST2048,Anika Raman,Beauty,Skin Care Kit,2,2771,5542,3607.16,1934.84,34.91230603,South,Karnataka,Bengaluru,COD,Express,Pending,Home Office
+ORD1049,2025-08-10,CUST2049,Pari Chokshi,Furniture,Coffee Table,1,3688,3688,2888.57,799.43,21.67651844,West,Maharashtra,Mumbai,COD,Express,Delivered,Corporate
+ORD1050,2025-08-11,CUST2050,Rania Manne,Grocery,Coffee Powder,4,9118,36472,27881.15,8590.85,23.55464466,South,Andhra Pradesh,Vijayawada,Debit Card,Express,Pending,Consumer
+ORD1051,2025-08-12,CUST2051,Kiaan Bajwa,Furniture,Bookshelf,6,11427,68562,53176.09,15385.91,22.44087104,South,Andhra Pradesh,Vijayawada,Net Banking,Standard,Pending,Home Office
+ORD1052,2025-08-13,CUST2052,Ranbir Lata,Beauty,Nail Kit,1,1675,1675,1241.85,433.15,25.85970149,South,Andhra Pradesh,Vijayawada,UPI,Express,Pending,Corporate
+ORD1053,2025-08-14,CUST2053,Dishani Virk,Fashion,Jeans,3,5829,17487,13420.76,4066.24,23.25293075,West,Rajasthan,Jaipur,Debit Card,Standard,Pending,Consumer
+ORD1054,2025-08-15,CUST2054,Heer Aggarwal,Beauty,Skin Care Kit,3,3973,11919,8856.19,3062.81,25.69687054,North,Delhi,New Delhi,Credit Card,Standard,Returned,Consumer
+ORD1055,2025-08-16,CUST2055,Darshit Wali,Fashion,Jacket,4,11268,45072,28177.47,16894.53,37.48342652,South,Andhra Pradesh,Vijayawada,Debit Card,Express,Delivered,Home Office
+ORD1056,2025-08-17,CUST2056,Tara Lal,Beauty,Nail Kit,6,2176,13056,10067.67,2988.33,22.88855699,South,Tamil Nadu,Chennai,Net Banking,Standard,Pending,Home Office
+ORD1057,2025-08-18,CUST2057,Misha Chand,Furniture,Coffee Table,6,3549,21294,13132.42,8161.58,38.32807364,South,Telangana,Hyderabad,Debit Card,Standard,Returned,Consumer
+ORD1058,2025-08-19,CUST2058,Rati Aggarwal,Grocery,Tea Pack,4,11138,44552,30363.33,14188.67,31.8474367,East,West Bengal,Kolkata,COD,Standard,Pending,Corporate
+ORD1059,2025-08-20,CUST2059,Rasha Dyal,Furniture,Bedside Table,2,7435,14870,9498.21,5371.79,36.12501681,East,Jharkhand,Ranchi,COD,Express,Pending,Consumer
+ORD1060,2025-08-21,CUST2060,Dhanuk Sabharwal,Electronics,Monitor,4,4295,17180,13144.5,4035.5,23.4895227,West,Rajasthan,Jaipur,COD,Express,Delivered,Corporate
+ORD1061,2025-08-22,CUST2061,Elakshi Divan,Fashion,Handbag,3,5876,17628,11661.36,5966.64,33.84751532,East,West Bengal,Kolkata,Credit Card,Standard,Delivered,Home Office
+ORD1062,2025-08-23,CUST2062,Rasha Subramanian,Furniture,Coffee Table,5,12721,63605,41525.88,22079.12,34.71286849,West,Goa,Panaji,UPI,Standard,Pending,Consumer
+ORD1063,2025-08-24,CUST2063,Farhan Golla,Furniture,Bedside Table,2,5316,10632,7932.23,2699.77,25.39287058,East,Jharkhand,Ranchi,Net Banking,Express,Pending,Home Office
+ORD1064,2025-08-25,CUST2064,Mannat Shroff,Beauty,Hair Dryer,3,11815,35445,24805.26,10639.74,30.01760474,East,Assam,Guwahati,UPI,Standard,Pending,Consumer
+ORD1065,2025-08-26,CUST2065,Tara Ahluwalia,Beauty,Nail Kit,2,3438,6876,4452.93,2423.07,35.2395288,West,Rajasthan,Jaipur,Net Banking,Express,Delivered,Consumer
+ORD1066,2025-08-27,CUST2066,Farhan Joshi,Grocery,Dry Fruits Pack,3,3239,9717,6476.37,3240.63,33.35010806,South,Tamil Nadu,Chennai,UPI,Express,Returned,Consumer
+ORD1067,2025-08-28,CUST2067,Purab Sunder,Furniture,Office Chair,1,9705,9705,6430.09,3274.91,33.74456466,West,Goa,Panaji,Credit Card,Standard,Pending,Corporate
+ORD1068,2025-08-29,CUST2068,Amira Bhardwaj,Electronics,Bluetooth Speaker,4,8356,33424,20599.15,12824.85,38.3701831,North,Punjab,Amritsar,Net Banking,Express,Delivered,Consumer
+ORD1069,2025-08-30,CUST2069,Purab Bora,Electronics,Webcam,5,10066,50330,38953.56,11376.44,22.60369561,South,Andhra Pradesh,Vijayawada,COD,Express,Returned,Corporate
+ORD1070,2025-08-31,CUST2070,Himmat Banerjee,Grocery,Tea Pack,5,1286,6430,4720.38,1709.62,26.5881804,North,Punjab,Amritsar,Credit Card,Express,Returned,Consumer
+ORD1071,2025-09-01,CUST2071,Rohan Bhatti,Fashion,Jacket,2,9343,18686,11520.19,7165.81,38.34854972,North,Haryana,Gurugram,Net Banking,Express,Pending,Consumer
+ORD1072,2025-09-02,CUST2072,Tara Chandra,Fashion,Handbag,6,4932,29592,22331.82,7260.18,24.53426602,West,Maharashtra,Mumbai,Credit Card,Express,Returned,Home Office
+ORD1073,2025-09-03,CUST2073,Saksham Vig,Fashion,Jeans,1,9222,9222,5989.3,3232.7,35.05421817,South,Tamil Nadu,Chennai,UPI,Standard,Delivered,Corporate
+ORD1074,2025-09-04,CUST2074,Mannat Banik,Beauty,Nail Kit,5,5028,25140,17512.87,7627.13,30.33862371,West,Rajasthan,Jaipur,COD,Express,Returned,Home Office
+ORD1075,2025-09-05,CUST2075,Abram Brar,Furniture,Coffee Table,1,10098,10098,6147.35,3950.65,39.12309368,West,Rajasthan,Jaipur,Debit Card,Standard,Delivered,Consumer
+ORD1076,2025-09-06,CUST2076,Krish Sharma,Beauty,Shampoo Combo,1,12829,12829,9594.83,3234.17,25.20983709,East,West Bengal,Kolkata,COD,Express,Pending,Consumer
+ORD1077,2025-09-07,CUST2077,Ayesha Dugal,Beauty,Lipstick Set,6,13640,81840,57957.42,23882.58,29.18203812,North,Haryana,Gurugram,COD,Express,Pending,Home Office
+ORD1078,2025-09-08,CUST2078,Anahi Sur,Electronics,Smart Watch,3,7044,21132,15904.12,5227.88,24.73916335,East,Jharkhand,Ranchi,UPI,Express,Delivered,Corporate
+ORD1079,2025-09-09,CUST2079,Krish Dhillon,Grocery,Olive Oil,1,12957,12957,8926.32,4030.68,31.10812688,North,Haryana,Gurugram,UPI,Standard,Returned,Corporate
+ORD1080,2025-09-10,CUST2080,Aaryahi Goda,Beauty,Lipstick Set,6,7542,45252,34717.24,10534.76,23.28020861,South,Tamil Nadu,Chennai,Credit Card,Express,Pending,Home Office
+ORD1081,2025-09-11,CUST2081,Kiara Deshmukh,Furniture,Office Chair,1,10622,10622,7796.04,2825.96,26.60478253,South,Karnataka,Bengaluru,Net Banking,Standard,Returned,Corporate
+ORD1082,2025-09-12,CUST2082,Advika Bansal,Electronics,Keyboard,1,7860,7860,6353.66,1506.34,19.16463104,South,Andhra Pradesh,Vijayawada,Net Banking,Express,Pending,Corporate
+ORD1083,2025-09-13,CUST2083,Trisha Bansal,Furniture,Study Table,4,9331,37324,23582.1,13741.9,36.81786518,South,Karnataka,Bengaluru,Debit Card,Express,Pending,Home Office
+ORD1084,2025-09-14,CUST2084,Tejas Hayre,Grocery,Organic Rice,3,12195,36585,24353.99,12231.01,33.43176165,West,Gujarat,Ahmedabad,Net Banking,Express,Pending,Corporate
+ORD1085,2025-09-15,CUST2085,Gatik Chaudhry,Beauty,Shampoo Combo,4,7760,31040,24994.26,6045.74,19.47725515,South,Karnataka,Bengaluru,COD,Standard,Pending,Consumer
+ORD1086,2025-09-16,CUST2086,Lagan Karan,Grocery,Healthy Snacks,4,11854,47416,37978.07,9437.93,19.9045259,West,Goa,Panaji,Credit Card,Express,Delivered,Consumer
+ORD1087,2025-09-17,CUST2087,Akarsh Cheema,Beauty,Shampoo Combo,3,14549,43647,27151.94,16495.06,37.79196737,West,Maharashtra,Mumbai,COD,Standard,Returned,Consumer
+ORD1088,2025-09-18,CUST2088,Uthkarsh Shetty,Furniture,Bedside Table,2,1525,3050,2145.03,904.97,29.67114754,East,Assam,Guwahati,COD,Standard,Pending,Home Office
+ORD1089,2025-09-19,CUST2089,Taimur Sekhon,Beauty,Lipstick Set,3,10569,31707,24037.64,7669.36,24.18822342,West,Maharashtra,Mumbai,UPI,Standard,Returned,Home Office
+ORD1090,2025-09-20,CUST2090,Zaina Choudhary,Grocery,Dry Fruits Pack,6,1780,10680,7427.66,3252.34,30.45262172,North,Delhi,New Delhi,Credit Card,Express,Delivered,Consumer
+ORD1091,2025-09-21,CUST2091,Kismat Chowdhury,Grocery,Organic Rice,3,6173,18519,12638.57,5880.43,31.75349641,South,Karnataka,Bengaluru,COD,Standard,Delivered,Consumer
+ORD1092,2025-09-22,CUST2092,Romil Bahl,Electronics,Webcam,5,11492,57460,37520.38,19939.62,34.70174034,South,Karnataka,Bengaluru,Debit Card,Express,Pending,Home Office
+ORD1093,2025-09-23,CUST2093,Chirag Gera,Electronics,Power Bank,3,11401,34203,24634.77,9568.23,27.97482677,North,Haryana,Gurugram,Net Banking,Express,Returned,Corporate
+ORD1094,2025-09-24,CUST2094,Hridaan Swaminathan,Grocery,Coffee Powder,3,3563,10689,8763.51,1925.49,18.01375246,West,Maharashtra,Mumbai,COD,Express,Returned,Corporate
+ORD1095,2025-09-25,CUST2095,Fateh Sachar,Grocery,Organic Rice,6,6784,40704,26880.34,13823.66,33.96142885,North,Haryana,Gurugram,Credit Card,Express,Delivered,Home Office
+ORD1096,2025-09-26,CUST2096,Yasmin Madan,Fashion,Sneakers,3,11404,34212,26214.16,7997.84,23.37729452,South,Telangana,Hyderabad,UPI,Express,Pending,Consumer
+ORD1097,2025-09-27,CUST2097,Hunar Ravi,Beauty,Hair Dryer,6,2453,14718,9122.65,5595.35,38.01705395,East,Assam,Guwahati,Credit Card,Standard,Delivered,Home Office
+ORD1098,2025-09-28,CUST2098,Pari Butala,Grocery,Tea Pack,5,4765,23825,18647.92,5177.08,21.72961175,East,Jharkhand,Ranchi,Debit Card,Standard,Pending,Consumer
+ORD1099,2025-09-29,CUST2099,Kavya Guha,Fashion,Winter Hoodie,2,14392,28784,21553.21,7230.79,25.12086576,West,Rajasthan,Jaipur,COD,Standard,Pending,Home Office
+ORD1100,2025-09-30,CUST2100,Lakshit Tara,Electronics,Power Bank,3,11323,33969,25978.9,7990.1,23.52174041,East,Jharkhand,Ranchi,Debit Card,Standard,Returned,Consumer
+ORD1101,2025-10-01,CUST2101,Himmat Cheema,Furniture,Office Chair,5,14787,73935,59702.31,14232.69,19.25027389,East,Odisha,Bhubaneswar,UPI,Express,Returned,Corporate
+ORD1102,2025-10-02,CUST2102,Inaaya  Walla,Furniture,Office Chair,2,1042,2084,1684.24,399.76,19.18234165,East,Jharkhand,Ranchi,UPI,Standard,Returned,Consumer
+ORD1103,2025-10-03,CUST2103,Yuvaan Bhandari,Furniture,Coffee Table,3,11285,33855,27384.08,6470.92,19.11363166,West,Gujarat,Ahmedabad,UPI,Express,Returned,Corporate
+ORD1104,2025-10-04,CUST2104,Divit Sachar,Grocery,Organic Rice,6,6370,38220,24758.89,13461.11,35.22006803,West,Gujarat,Ahmedabad,UPI,Express,Returned,Home Office
+ORD1105,2025-10-05,CUST2105,Anahita Mannan,Grocery,Organic Rice,4,4820,19280,12373.09,6906.91,35.82422199,North,Haryana,Gurugram,Credit Card,Standard,Delivered,Corporate
+ORD1106,2025-10-06,CUST2106,Aarush Vig,Fashion,Jacket,5,3662,18310,11262.38,7047.62,38.49055161,South,Karnataka,Bengaluru,Debit Card,Standard,Returned,Consumer
+ORD1107,2025-10-07,CUST2107,Charvi Sehgal,Grocery,Dry Fruits Pack,2,9150,18300,11989.13,6310.87,34.48562842,South,Telangana,Hyderabad,UPI,Standard,Delivered,Corporate
+ORD1108,2025-10-08,CUST2108,Mohanlal Krishna,Fashion,Sneakers,3,558,1674,1068.57,605.43,36.16666667,North,Punjab,Amritsar,Net Banking,Standard,Returned,Consumer
+ORD1109,2025-10-09,CUST2109,Anahi Saini,Furniture,Coffee Table,3,8708,26124,19086.36,7037.64,26.9393661,West,Gujarat,Ahmedabad,UPI,Express,Pending,Home Office
+ORD1110,2025-10-10,CUST2110,Vedika Dyal,Electronics,Wireless Mouse,4,14182,56728,39049.05,17678.95,31.16441616,North,Haryana,Gurugram,UPI,Standard,Pending,Home Office
+ORD1111,2025-10-11,CUST2111,Divit Loke,Fashion,Running Shoes,2,4805,9610,7085.93,2524.07,26.26503642,East,Jharkhand,Ranchi,Net Banking,Express,Pending,Home Office
+ORD1112,2025-10-12,CUST2112,Shlok Chaudry,Beauty,Lipstick Set,1,13294,13294,10028.88,3265.12,24.56085452,South,Andhra Pradesh,Vijayawada,Credit Card,Express,Pending,Corporate
+ORD1113,2025-10-13,CUST2113,Krish Chawla,Furniture,Coffee Table,6,1857,11142,7451.33,3690.67,33.12394543,East,Assam,Guwahati,Credit Card,Express,Delivered,Consumer
+ORD1114,2025-10-14,CUST2114,Advik Soni,Electronics,Bluetooth Speaker,4,1882,7528,5749.96,1778.04,23.61902232,East,Odisha,Bhubaneswar,UPI,Express,Returned,Consumer
+ORD1115,2025-10-15,CUST2115,Aradhya Rama,Furniture,Bookshelf,6,12592,75552,52361.02,23190.98,30.69538861,North,Uttar Pradesh,Lucknow,Debit Card,Express,Delivered,Home Office
+ORD1116,2025-10-16,CUST2116,Nishith Barman,Beauty,Perfume Set,2,11059,22118,15617.11,6500.89,29.39185279,North,Uttar Pradesh,Lucknow,Debit Card,Standard,Pending,Home Office
+ORD1117,2025-10-17,CUST2117,Saira Choudhury,Fashion,Winter Hoodie,4,14147,56588,40936.46,15651.54,27.65876157,North,Uttar Pradesh,Lucknow,Credit Card,Express,Returned,Corporate
+ORD1118,2025-10-18,CUST2118,Lavanya Borde,Grocery,Olive Oil,1,3272,3272,2589.36,682.64,20.86308068,West,Maharashtra,Mumbai,UPI,Standard,Returned,Home Office
+ORD1119,2025-10-19,CUST2119,Inaaya  Saini,Fashion,Jeans,4,7732,30928,20876.31,10051.69,32.500291,East,Assam,Guwahati,Net Banking,Standard,Delivered,Consumer
+ORD1120,2025-10-20,CUST2120,Inaaya  Bose,Fashion,Winter Hoodie,5,1115,5575,4171.62,1403.38,25.17273543,East,Jharkhand,Ranchi,COD,Express,Returned,Corporate
+ORD1121,2025-10-21,CUST2121,Kiaan Bhagat,Furniture,Bookshelf,2,12668,25336,18057.38,7278.62,28.7283707,East,Jharkhand,Ranchi,Debit Card,Express,Returned,Home Office
+ORD1122,2025-10-22,CUST2122,Madhav Dubey,Grocery,Organic Rice,2,6775,13550,11064.63,2485.37,18.34221402,North,Delhi,New Delhi,Debit Card,Standard,Delivered,Corporate
+ORD1123,2025-10-23,CUST2123,Zoya Bassi,Grocery,Olive Oil,1,426,426,302.21,123.79,29.05868545,West,Gujarat,Ahmedabad,COD,Standard,Returned,Home Office
+ORD1124,2025-10-24,CUST2124,Indrans Anne,Grocery,Organic Rice,4,14419,57676,44021.15,13654.85,23.67509883,West,Maharashtra,Mumbai,UPI,Express,Returned,Corporate
+ORD1125,2025-10-25,CUST2125,Kabir Verma,Beauty,Lipstick Set,6,10788,64728,44784.83,19943.17,30.81073106,North,Haryana,Gurugram,Debit Card,Standard,Returned,Corporate
+ORD1126,2025-10-26,CUST2126,Uthkarsh Gopal,Grocery,Organic Rice,4,14136,56544,35243.3,21300.7,37.67101726,West,Goa,Panaji,UPI,Express,Pending,Home Office
+ORD1127,2025-10-27,CUST2127,Ehsaan Comar,Grocery,Dry Fruits Pack,3,13065,39195,24966.79,14228.21,36.30108432,North,Punjab,Amritsar,Debit Card,Standard,Delivered,Consumer
+ORD1128,2025-10-28,CUST2128,Anya Sami,Fashion,Handbag,2,3142,6284,4603.2,1680.8,26.74729472,North,Punjab,Amritsar,COD,Express,Returned,Home Office
+ORD1129,2025-10-29,CUST2129,Bhamini Mangal,Furniture,Bedside Table,5,10834,54170,40073.1,14096.9,26.02344471,East,Assam,Guwahati,COD,Standard,Pending,Corporate
+ORD1130,2025-10-30,CUST2130,Zoya Bajwa,Grocery,Olive Oil,5,1220,6100,4132.31,1967.69,32.25721311,North,Uttar Pradesh,Lucknow,COD,Standard,Delivered,Corporate
+ORD1131,2025-10-31,CUST2131,Biju Arora,Grocery,Organic Rice,6,14459,86754,70706.34,16047.66,18.49789059,North,Haryana,Gurugram,Net Banking,Standard,Pending,Home Office
+ORD1132,2025-11-01,CUST2132,Madhav Kaul,Fashion,Handbag,5,8092,40460,28738.77,11721.23,28.96992091,North,Haryana,Gurugram,Debit Card,Standard,Returned,Home Office
+ORD1133,2025-11-02,CUST2133,Ivan Thaman,Fashion,Running Shoes,2,11893,23786,16562.35,7223.65,30.3693349,West,Gujarat,Ahmedabad,Debit Card,Express,Pending,Corporate
+ORD1134,2025-11-03,CUST2134,Raunak Shanker,Grocery,Healthy Snacks,5,1157,5785,4475.45,1309.55,22.63699222,East,West Bengal,Kolkata,UPI,Express,Pending,Corporate
+ORD1135,2025-11-04,CUST2135,Prerak Gokhale,Beauty,Perfume Set,3,1635,4905,3571.83,1333.17,27.17981651,South,Tamil Nadu,Chennai,COD,Standard,Returned,Home Office
+ORD1136,2025-11-05,CUST2136,Bhavin Chaudhuri,Electronics,Monitor,5,6471,32355,23993.45,8361.55,25.84314635,East,Odisha,Bhubaneswar,Net Banking,Standard,Returned,Home Office
+ORD1137,2025-11-06,CUST2137,Nakul Tiwari,Furniture,Dining Table,3,598,1794,1219.51,574.49,32.02285396,South,Karnataka,Bengaluru,COD,Standard,Delivered,Consumer
+ORD1138,2025-11-07,CUST2138,Indrajit Dasgupta,Fashion,Running Shoes,3,14135,42405,32795.45,9609.55,22.66136069,North,Uttar Pradesh,Lucknow,Credit Card,Express,Delivered,Consumer
+ORD1139,2025-11-08,CUST2139,Nayantara Wagle,Fashion,Winter Hoodie,6,12933,77598,57224.09,20373.91,26.25571535,South,Andhra Pradesh,Vijayawada,COD,Express,Returned,Home Office
+ORD1140,2025-11-09,CUST2140,Indrajit Luthra,Fashion,Jeans,5,4968,24840,19015.67,5824.33,23.44738325,West,Gujarat,Ahmedabad,Credit Card,Express,Pending,Consumer
+ORD1141,2025-11-10,CUST2141,Vardaniya Khare,Grocery,Healthy Snacks,5,7518,37590,26372,11218,29.84304336,East,Jharkhand,Ranchi,Net Banking,Express,Delivered,Consumer
+ORD1142,2025-11-11,CUST2142,Yasmin Yogi,Beauty,Perfume Set,3,1154,3462,2565.55,896.45,25.89399191,East,West Bengal,Kolkata,UPI,Express,Delivered,Consumer
+ORD1143,2025-11-12,CUST2143,Kiaan Batta,Grocery,Coffee Powder,5,2714,13570,10623.01,2946.99,21.71694915,North,Punjab,Amritsar,Debit Card,Standard,Pending,Consumer
+ORD1144,2025-11-13,CUST2144,Trisha Som,Furniture,Dining Table,3,4162,12486,8552.37,3933.63,31.50432484,North,Uttar Pradesh,Lucknow,UPI,Express,Delivered,Home Office
+ORD1145,2025-11-14,CUST2145,Sahil Venkataraman,Grocery,Dry Fruits Pack,2,927,1854,1229.41,624.59,33.68878101,West,Gujarat,Ahmedabad,COD,Express,Returned,Consumer
+ORD1146,2025-11-15,CUST2146,Kismat Mane,Electronics,Wireless Mouse,3,3833,11499,9011.67,2487.33,21.63083746,West,Maharashtra,Mumbai,Credit Card,Express,Delivered,Consumer
+ORD1147,2025-11-16,CUST2147,Pihu Rege,Fashion,Jeans,6,13307,79842,58845.02,20996.98,26.29816387,North,Delhi,New Delhi,Net Banking,Standard,Returned,Home Office
+ORD1148,2025-11-17,CUST2148,Purab Hegde,Beauty,Perfume Set,6,2652,15912,10566.84,5345.16,33.59200603,North,Uttar Pradesh,Lucknow,Net Banking,Express,Delivered,Home Office
+ORD1149,2025-11-18,CUST2149,Khushi Bhalla,Electronics,Tablet,1,8918,8918,6418.27,2499.73,28.03016371,North,Haryana,Gurugram,UPI,Express,Pending,Corporate
+ORD1150,2025-11-19,CUST2150,Ivan Dada,Electronics,Tablet,1,5949,5949,3884.98,2064.02,34.6952429,North,Uttar Pradesh,Lucknow,UPI,Express,Returned,Corporate
+ORD1151,2025-11-20,CUST2151,Gokul Lad,Fashion,Winter Hoodie,6,7912,47472,38726.72,8745.28,18.42197506,West,Gujarat,Ahmedabad,UPI,Express,Delivered,Corporate
+ORD1152,2025-11-21,CUST2152,Vanya Chander,Fashion,Running Shoes,2,14812,29624,18047.51,11576.49,39.07807858,East,Jharkhand,Ranchi,COD,Express,Delivered,Home Office
+ORD1153,2025-11-22,CUST2153,Samar Dube,Fashion,Handbag,3,14425,43275,33399,9876,22.82149047,East,Assam,Guwahati,Debit Card,Express,Pending,Home Office
+ORD1154,2025-11-23,CUST2154,Suhana Deshpande,Furniture,Coffee Table,3,3360,10080,7148.38,2931.62,29.08353175,West,Rajasthan,Jaipur,Debit Card,Standard,Returned,Corporate
+ORD1155,2025-11-24,CUST2155,Riya Kohli,Electronics,Webcam,5,13773,68865,44052.97,24812.03,36.02995716,East,Assam,Guwahati,UPI,Express,Returned,Corporate
+ORD1156,2025-11-25,CUST2156,Samar Bhalla,Grocery,Coffee Powder,5,12058,60290,41825.92,18464.08,30.62544369,West,Rajasthan,Jaipur,UPI,Express,Returned,Corporate
+ORD1157,2025-11-26,CUST2157,Jayant Kale,Grocery,Healthy Snacks,1,1529,1529,1143.17,385.83,25.23413996,West,Rajasthan,Jaipur,Credit Card,Standard,Delivered,Home Office
+ORD1158,2025-11-27,CUST2158,Anahita Dash,Furniture,Office Chair,2,1401,2802,1826.68,975.32,34.80799429,East,Assam,Guwahati,Net Banking,Standard,Returned,Consumer
+ORD1159,2025-11-28,CUST2159,Gokul Contractor,Furniture,Bookshelf,3,7573,22719,17445.43,5273.57,23.21215723,South,Tamil Nadu,Chennai,Debit Card,Express,Delivered,Consumer
+ORD1160,2025-11-29,CUST2160,Kiaan Kale,Electronics,Smart Watch,4,8782,35128,24067.5,11060.5,31.48627875,North,Uttar Pradesh,Lucknow,COD,Standard,Returned,Corporate
+ORD1161,2025-11-30,CUST2161,Anahi Khurana,Furniture,Study Table,1,2523,2523,1987.17,535.83,21.23781213,West,Gujarat,Ahmedabad,UPI,Express,Returned,Corporate
+ORD1162,2025-12-01,CUST2162,Piya Thakur,Electronics,Monitor,3,14248,42744,27127.53,15616.47,36.53488209,South,Tamil Nadu,Chennai,Credit Card,Standard,Delivered,Consumer
+ORD1163,2025-12-02,CUST2163,Anahi Brar,Fashion,Winter Hoodie,4,730,2920,1983.84,936.16,32.06027397,East,Jharkhand,Ranchi,Credit Card,Standard,Delivered,Corporate
+ORD1164,2025-12-03,CUST2164,Ahana  Chhabra,Furniture,Bedside Table,6,8142,48852,34961.08,13890.92,28.43470073,West,Maharashtra,Mumbai,Debit Card,Standard,Pending,Corporate
+ORD1165,2025-12-04,CUST2165,Azad Vaidya,Beauty,Hair Dryer,2,14684,29368,22977.28,6390.72,21.76082811,South,Karnataka,Bengaluru,Net Banking,Standard,Delivered,Home Office
+ORD1166,2025-12-05,CUST2166,Anya Kara,Fashion,Handbag,2,2953,5906,3962.84,1943.16,32.90145615,South,Tamil Nadu,Chennai,Debit Card,Standard,Pending,Consumer
+ORD1167,2025-12-06,CUST2167,Prerak Batta,Beauty,Hair Dryer,2,10540,21080,14052.38,7027.62,33.33785579,North,Punjab,Amritsar,Net Banking,Standard,Delivered,Home Office
+ORD1168,2025-12-07,CUST2168,Umang Sachdev,Beauty,Nail Kit,5,5831,29155,22897.07,6257.93,21.46434574,North,Delhi,New Delhi,UPI,Express,Returned,Consumer
+ORD1169,2025-12-08,CUST2169,Indrajit Gour,Beauty,Lipstick Set,5,10769,53845,32665.76,21179.24,39.33371715,East,Assam,Guwahati,Credit Card,Express,Pending,Corporate
+ORD1170,2025-12-09,CUST2170,Ryan Gill,Electronics,Wireless Mouse,2,7502,15004,10374.32,4629.68,30.85630499,West,Gujarat,Ahmedabad,Net Banking,Standard,Pending,Home Office
+ORD1171,2025-12-10,CUST2171,Aaryahi Badami,Grocery,Healthy Snacks,3,6832,20496,12887.24,7608.76,37.12314598,East,West Bengal,Kolkata,Credit Card,Express,Delivered,Corporate
+ORD1172,2025-12-11,CUST2172,Ivan Bhavsar,Furniture,Study Table,2,1886,3772,2305.19,1466.81,38.88679745,West,Goa,Panaji,Credit Card,Express,Returned,Home Office
+ORD1173,2025-12-12,CUST2173,Tiya Bir,Grocery,Dry Fruits Pack,2,8463,16926,13864.31,3061.69,18.08868014,West,Goa,Panaji,COD,Standard,Delivered,Corporate
+ORD1174,2025-12-13,CUST2174,Heer Chaudhry,Beauty,Lipstick Set,2,3824,7648,5570.31,2077.69,27.16644874,North,Delhi,New Delhi,COD,Express,Pending,Home Office
+ORD1175,2025-12-14,CUST2175,Damini Loke,Electronics,Bluetooth Speaker,4,2494,9976,7922.34,2053.66,20.58600642,East,Jharkhand,Ranchi,UPI,Express,Delivered,Home Office
+ORD1176,2025-12-15,CUST2176,Madhav Sidhu,Beauty,Perfume Set,3,9364,28092,18638.83,9453.17,33.65075466,West,Goa,Panaji,Debit Card,Standard,Delivered,Consumer
+ORD1177,2025-12-16,CUST2177,Nirvi Dayal,Furniture,Bookshelf,3,9439,28317,22839.61,5477.39,19.34311544,South,Karnataka,Bengaluru,Net Banking,Express,Returned,Consumer
+ORD1178,2025-12-17,CUST2178,Devansh Badami,Electronics,Wireless Mouse,2,11991,23982,16146.34,7835.66,32.67308815,West,Goa,Panaji,Net Banking,Standard,Pending,Home Office
+ORD1179,2025-12-18,CUST2179,Mamooty Issac,Grocery,Dry Fruits Pack,4,10400,41600,31726.25,9873.75,23.73497596,East,Assam,Guwahati,Net Banking,Express,Returned,Home Office
+ORD1180,2025-12-19,CUST2180,Siya Shere,Grocery,Coffee Powder,1,6335,6335,4262.65,2072.35,32.71270718,North,Haryana,Gurugram,Debit Card,Standard,Returned,Corporate
+ORD1181,2025-12-20,CUST2181,Neelofar Grover,Grocery,Healthy Snacks,5,9763,48815,31732.65,17082.35,34.9940592,North,Haryana,Gurugram,Net Banking,Express,Delivered,Home Office
+ORD1182,2025-12-21,CUST2182,Raghav Choudhury,Fashion,Running Shoes,5,11777,58885,36754.66,22130.34,37.58230449,North,Haryana,Gurugram,COD,Standard,Pending,Home Office
+ORD1183,2025-12-22,CUST2183,Ivana Thakkar,Fashion,Jeans,5,12997,64985,47733.12,17251.88,26.54748019,West,Maharashtra,Mumbai,Credit Card,Standard,Returned,Corporate
+ORD1184,2025-12-23,CUST2184,Khushi Dutt,Furniture,Dining Table,4,5440,21760,17635.84,4124.16,18.95294118,West,Rajasthan,Jaipur,Debit Card,Express,Returned,Corporate
+ORD1185,2025-12-24,CUST2185,Mamooty Madan,Fashion,Jacket,3,9443,28329,18857.76,9471.24,33.43301917,East,Assam,Guwahati,Credit Card,Express,Pending,Corporate
+ORD1186,2025-12-25,CUST2186,Raghav Sandhu,Grocery,Tea Pack,6,4780,28680,19023.84,9656.16,33.66861925,West,Goa,Panaji,Credit Card,Express,Delivered,Corporate
+ORD1187,2025-12-26,CUST2187,Adah Loyal,Electronics,Tablet,4,11047,44188,29005.78,15182.22,34.35824206,West,Gujarat,Ahmedabad,Net Banking,Express,Returned,Home Office
+ORD1188,2025-12-27,CUST2188,Ranbir Thakkar,Grocery,Dry Fruits Pack,1,10387,10387,7925.24,2461.76,23.70039472,South,Karnataka,Bengaluru,Net Banking,Standard,Returned,Consumer
+ORD1189,2025-12-28,CUST2189,Anika Lad,Electronics,Bluetooth Speaker,4,5711,22844,17311.61,5532.39,24.21813168,North,Punjab,Amritsar,Net Banking,Standard,Pending,Home Office
+ORD1190,2025-12-29,CUST2190,Kartik Ahuja,Furniture,Coffee Table,6,3567,21402,16400.36,5001.64,23.36996542,East,Assam,Guwahati,UPI,Standard,Returned,Home Office
+ORD1191,2025-12-30,CUST2191,Zara Sharaf,Fashion,Sneakers,6,12147,72882,57363.47,15518.53,21.29267858,North,Punjab,Amritsar,Credit Card,Standard,Pending,Corporate
+ORD1192,2025-12-31,CUST2192,Arnav Date,Fashion,Formal Shirt,3,14664,43992,26757.81,17234.19,39.1757365,East,West Bengal,Kolkata,Debit Card,Express,Returned,Home Office
+ORD1193,2026-01-01,CUST2193,Mahika Magar,Beauty,Lipstick Set,2,14243,28486,20251.46,8234.54,28.9073229,East,Odisha,Bhubaneswar,Debit Card,Standard,Returned,Corporate
+ORD1194,2026-01-02,CUST2194,Aniruddh Varma,Grocery,Healthy Snacks,2,530,1060,807.78,252.22,23.79433962,East,Odisha,Bhubaneswar,Net Banking,Express,Pending,Home Office
+ORD1195,2026-01-03,CUST2195,Jayant Chatterjee,Grocery,Organic Rice,4,11265,45060,27981.57,17078.43,37.90153129,South,Andhra Pradesh,Vijayawada,Credit Card,Standard,Pending,Corporate
+ORD1196,2026-01-04,CUST2196,Khushi Lad,Fashion,Jeans,3,5700,17100,11395.92,5704.08,33.35719298,North,Uttar Pradesh,Lucknow,Debit Card,Standard,Delivered,Home Office
+ORD1197,2026-01-05,CUST2197,Nirvi Bhandari,Electronics,Power Bank,3,2916,8748,6029.05,2718.95,31.08081847,East,West Bengal,Kolkata,Debit Card,Express,Returned,Consumer
+ORD1198,2026-01-06,CUST2198,Hrishita Doshi,Fashion,Jacket,4,2809,11236,7866.27,3369.73,29.99047704,East,Jharkhand,Ranchi,Net Banking,Express,Returned,Home Office
+ORD1199,2026-01-07,CUST2199,Divij Hegde,Fashion,Winter Hoodie,2,11446,22892,17536.25,5355.75,23.39572777,North,Haryana,Gurugram,Debit Card,Standard,Returned,Consumer
+ORD1200,2026-01-08,CUST2200,Shlok Tak,Electronics,Keyboard,5,9092,45460,28774.7,16685.3,36.70325561,East,Jharkhand,Ranchi,Credit Card,Express,Delivered,Home Office
+ORD1201,2026-01-09,CUST2201,Ishita Wali,Furniture,Office Chair,4,2461,9844,7017.93,2826.07,28.70855343,West,Maharashtra,Mumbai,COD,Express,Returned,Consumer
+ORD1202,2026-01-10,CUST2202,Rati Goyal,Furniture,Bookshelf,1,12519,12519,8111.54,4407.46,35.20616663,North,Delhi,New Delhi,Debit Card,Standard,Returned,Consumer
+ORD1203,2026-01-11,CUST2203,Inaaya  Subramanian,Electronics,Power Bank,1,5003,5003,3451.82,1551.18,31.004997,South,Andhra Pradesh,Vijayawada,COD,Express,Pending,Corporate
+ORD1204,2026-01-12,CUST2204,Akarsh Dada,Electronics,Smart Watch,6,14394,86364,58426.06,27937.94,32.34905748,South,Andhra Pradesh,Vijayawada,Credit Card,Standard,Delivered,Consumer
+ORD1205,2026-01-13,CUST2205,Advika Grewal,Grocery,Coffee Powder,6,12081,72486,52173.83,20312.17,28.02219739,West,Gujarat,Ahmedabad,COD,Express,Delivered,Corporate
+ORD1206,2026-01-14,CUST2206,Divyansh Saha,Fashion,Formal Shirt,1,827,827,643.48,183.52,22.191052,West,Maharashtra,Mumbai,Credit Card,Standard,Delivered,Home Office
+ORD1207,2026-01-15,CUST2207,Fateh Balan,Electronics,Power Bank,5,11310,56550,42679.58,13870.42,24.52770999,North,Punjab,Amritsar,COD,Express,Delivered,Home Office
+ORD1208,2026-01-16,CUST2208,Yuvaan Sridhar,Fashion,Winter Hoodie,1,2595,2595,1844.67,750.33,28.91445087,East,Odisha,Bhubaneswar,Debit Card,Express,Delivered,Corporate
+ORD1209,2026-01-17,CUST2209,Uthkarsh Krishnamurthy,Fashion,Formal Shirt,5,3921,19605,13546.73,6058.27,30.90165774,East,West Bengal,Kolkata,Net Banking,Standard,Returned,Home Office
+ORD1210,2026-01-18,CUST2210,Mohanlal Rajagopalan,Furniture,Dining Table,4,1068,4272,3477,795,18.60955056,West,Rajasthan,Jaipur,COD,Express,Delivered,Corporate
+ORD1211,2026-01-19,CUST2211,Shaan Ratta,Furniture,Study Table,5,8058,40290,26309.89,13980.11,34.69870936,South,Tamil Nadu,Chennai,COD,Standard,Returned,Corporate
+ORD1212,2026-01-20,CUST2212,Tarini Jha,Furniture,Dining Table,5,2496,12480,8554.44,3925.56,31.45480769,East,Odisha,Bhubaneswar,UPI,Express,Pending,Consumer
+ORD1213,2026-01-21,CUST2213,Piya Ahuja,Beauty,Nail Kit,2,1144,2288,1507.93,780.07,34.09396853,North,Delhi,New Delhi,Net Banking,Standard,Pending,Consumer
+ORD1214,2026-01-22,CUST2214,Badal Chanda,Grocery,Olive Oil,1,3770,3770,3039.28,730.72,19.38249337,North,Haryana,Gurugram,Net Banking,Standard,Pending,Consumer
+ORD1215,2026-01-23,CUST2215,Ryan Doshi,Beauty,Hair Dryer,3,6536,19608,13776.09,5831.91,29.74250306,East,Assam,Guwahati,Debit Card,Express,Pending,Consumer
+ORD1216,2026-01-24,CUST2216,Biju Soni,Furniture,Bookshelf,2,6373,12746,8525.07,4220.93,33.11572258,North,Punjab,Amritsar,UPI,Express,Returned,Home Office
+ORD1217,2026-01-25,CUST2217,Ira Mani,Beauty,Nail Kit,4,5136,20544,13015.25,7528.75,36.64695288,East,Odisha,Bhubaneswar,Net Banking,Standard,Pending,Home Office
+ORD1218,2026-01-26,CUST2218,Shalv Rattan,Grocery,Olive Oil,4,12154,48616,36032.86,12583.14,25.88271351,West,Goa,Panaji,Debit Card,Standard,Delivered,Home Office
+ORD1219,2026-01-27,CUST2219,Jayesh Ghosh,Beauty,Lipstick Set,2,14871,29742,21392.53,8349.47,28.07299442,North,Delhi,New Delhi,UPI,Standard,Pending,Consumer
+ORD1220,2026-01-28,CUST2220,Tarini Kala,Fashion,Running Shoes,6,2774,16644,10019.87,6624.13,39.79890651,West,Rajasthan,Jaipur,Net Banking,Express,Returned,Corporate
+ORD1221,2026-01-29,CUST2221,Arnav Walla,Electronics,Wireless Mouse,5,9338,46690,32239.19,14450.81,30.95054616,North,Uttar Pradesh,Lucknow,Debit Card,Standard,Returned,Home Office
+ORD1222,2026-01-30,CUST2222,Anahita Gera,Furniture,Study Table,1,1878,1878,1343.46,534.54,28.46325879,South,Karnataka,Bengaluru,Net Banking,Express,Pending,Corporate
+ORD1223,2026-01-31,CUST2223,Zara Dave,Furniture,Office Chair,3,6952,20856,14619.63,6236.37,29.90204258,South,Karnataka,Bengaluru,UPI,Standard,Delivered,Corporate
+ORD1224,2026-02-01,CUST2224,Rhea Grewal,Furniture,Coffee Table,5,8098,40490,24793.86,15696.14,38.76547296,North,Punjab,Amritsar,COD,Express,Returned,Corporate
+ORD1225,2026-02-02,CUST2225,Adah Saha,Beauty,Skin Care Kit,5,997,4985,3242.98,1742.02,34.94523571,West,Rajasthan,Jaipur,UPI,Express,Returned,Home Office
+ORD1226,2026-02-03,CUST2226,Shanaya Gara,Electronics,Smart Watch,3,556,1668,1353.62,314.38,18.84772182,South,Andhra Pradesh,Vijayawada,Debit Card,Standard,Returned,Consumer
+ORD1227,2026-02-04,CUST2227,Ela Sachar,Beauty,Lipstick Set,6,14988,89928,64651.37,25276.63,28.10763055,West,Gujarat,Ahmedabad,UPI,Express,Delivered,Consumer
+ORD1228,2026-02-05,CUST2228,Advik Krish,Furniture,Study Table,1,5880,5880,4310.85,1569.15,26.68622449,West,Rajasthan,Jaipur,Debit Card,Express,Pending,Consumer
+ORD1229,2026-02-06,CUST2229,Jiya Sathe,Grocery,Tea Pack,4,7375,29500,18905.44,10594.56,35.91376271,West,Maharashtra,Mumbai,Debit Card,Standard,Returned,Consumer
+ORD1230,2026-02-07,CUST2230,Veer Tripathi,Electronics,Monitor,2,6525,13050,9873.23,3176.77,24.34306513,South,Andhra Pradesh,Vijayawada,Debit Card,Standard,Delivered,Consumer
+ORD1231,2026-02-08,CUST2231,Aniruddh Subramaniam,Grocery,Coffee Powder,3,12773,38319,25265.58,13053.42,34.0651374,South,Telangana,Hyderabad,COD,Express,Returned,Home Office
+ORD1232,2026-02-09,CUST2232,Anaya Date,Beauty,Lipstick Set,1,730,730,452.39,277.61,38.02876712,North,Uttar Pradesh,Lucknow,UPI,Express,Pending,Corporate
+ORD1233,2026-02-10,CUST2233,Saira Shukla,Electronics,Keyboard,5,8837,44185,28159.46,16025.54,36.26918638,West,Gujarat,Ahmedabad,Debit Card,Express,Pending,Corporate
+ORD1234,2026-02-11,CUST2234,Ishita Bhatia,Fashion,Running Shoes,2,7421,14842,9806.28,5035.72,33.92885056,East,Jharkhand,Ranchi,Debit Card,Express,Delivered,Home Office
+ORD1235,2026-02-12,CUST2235,Amani Ramanathan,Furniture,Dining Table,5,3503,17515,12273.28,5241.72,29.92703397,South,Tamil Nadu,Chennai,COD,Express,Returned,Corporate
+ORD1236,2026-02-13,CUST2236,Himmat Contractor,Grocery,Coffee Powder,3,7355,22065,17197.56,4867.44,22.05955133,South,Tamil Nadu,Chennai,Net Banking,Standard,Pending,Corporate
+ORD1237,2026-02-14,CUST2237,Azad Garde,Fashion,Jeans,3,5075,15225,11596.46,3628.54,23.83277504,West,Gujarat,Ahmedabad,COD,Express,Pending,Corporate
+ORD1238,2026-02-15,CUST2238,Anahita Grewal,Electronics,Keyboard,5,9239,46195,29545.58,16649.42,36.04160623,North,Haryana,Gurugram,COD,Express,Returned,Consumer
+ORD1239,2026-02-16,CUST2239,Saira Iyengar,Furniture,Bedside Table,4,2580,10320,7629.93,2690.07,26.06656977,South,Tamil Nadu,Chennai,Credit Card,Express,Pending,Consumer
+ORD1240,2026-02-17,CUST2240,Miraan Chahal,Furniture,Dining Table,4,9839,39356,27083.9,12272.1,31.18228479,West,Maharashtra,Mumbai,Net Banking,Standard,Delivered,Consumer
+ORD1241,2026-02-18,CUST2241,Renee Yohannan,Grocery,Dry Fruits Pack,6,10338,62028,37821.28,24206.72,39.02547237,West,Rajasthan,Jaipur,UPI,Standard,Delivered,Corporate
+ORD1242,2026-02-19,CUST2242,Darshit Lad,Fashion,Sneakers,6,8799,52794,38157.31,14636.69,27.72415426,South,Andhra Pradesh,Vijayawada,COD,Express,Returned,Home Office
+ORD1243,2026-02-20,CUST2243,Gatik Lall,Beauty,Perfume Set,3,702,2106,1487.28,618.72,29.37891738,East,Jharkhand,Ranchi,UPI,Standard,Pending,Corporate
+ORD1244,2026-02-21,CUST2244,Ranbir Dar,Grocery,Coffee Powder,2,8837,17674,12482.15,5191.85,29.37563653,West,Maharashtra,Mumbai,COD,Express,Delivered,Corporate
+ORD1245,2026-02-22,CUST2245,Aaina Chada,Electronics,Bluetooth Speaker,1,14212,14212,9599.88,4612.12,32.45229384,North,Punjab,Amritsar,Net Banking,Standard,Returned,Consumer
+ORD1246,2026-02-23,CUST2246,Siya Mannan,Grocery,Tea Pack,4,7870,31480,20493.74,10986.26,34.89917408,West,Gujarat,Ahmedabad,COD,Express,Delivered,Home Office
+ORD1247,2026-02-24,CUST2247,Kabir Bhasin,Beauty,Perfume Set,4,10002,40008,27785.62,12222.38,30.54984003,North,Punjab,Amritsar,Debit Card,Standard,Returned,Consumer
+ORD1248,2026-02-25,CUST2248,Armaan Subramaniam,Beauty,Perfume Set,3,5640,16920,10885.59,6034.41,35.6643617,North,Uttar Pradesh,Lucknow,COD,Express,Returned,Corporate
+ORD1249,2026-02-26,CUST2249,Aayush Bhavsar,Beauty,Lipstick Set,5,2171,10855,7343.88,3511.12,32.34564717,West,Gujarat,Ahmedabad,Debit Card,Standard,Returned,Consumer
+ORD1250,2026-02-27,CUST2250,Manjari Trivedi,Grocery,Organic Rice,2,5303,10606,6636.48,3969.52,37.42711673,East,Odisha,Bhubaneswar,COD,Express,Returned,Consumer
+ORD1251,2026-02-28,CUST2251,Manjari Ray,Beauty,Lipstick Set,4,3343,13372,9454.91,3917.09,29.29322465,South,Karnataka,Bengaluru,Debit Card,Standard,Delivered,Corporate
+ORD1252,2026-03-01,CUST2252,Hridaan Chakraborty,Furniture,Dining Table,1,14480,14480,9831.76,4648.24,32.10110497,North,Haryana,Gurugram,Credit Card,Express,Returned,Home Office
+ORD1253,2026-03-02,CUST2253,Saanvi Shroff,Furniture,Coffee Table,6,8356,50136,34665.97,15470.03,30.85613132,West,Goa,Panaji,UPI,Standard,Delivered,Corporate
+ORD1254,2026-03-03,CUST2254,Farhan Bahri,Electronics,Monitor,2,9108,18216,12086.45,6129.55,33.64926438,West,Goa,Panaji,Net Banking,Standard,Returned,Consumer
+ORD1255,2026-03-04,CUST2255,Lakshit Dewan,Grocery,Tea Pack,3,9180,27540,21508.04,6031.96,21.90254176,North,Haryana,Gurugram,Credit Card,Express,Delivered,Home Office
+ORD1256,2026-03-05,CUST2256,Ayesha Ganesan,Fashion,Handbag,1,7668,7668,5044.16,2623.84,34.21804903,North,Haryana,Gurugram,Credit Card,Standard,Returned,Home Office
+ORD1257,2026-03-06,CUST2257,Nehmat Bose,Grocery,Healthy Snacks,5,10667,53335,37024.98,16310.02,30.58033186,South,Karnataka,Bengaluru,UPI,Express,Returned,Corporate
+ORD1258,2026-03-07,CUST2258,Zain Yadav,Beauty,Shampoo Combo,2,5602,11204,9135.52,2068.48,18.46197787,East,Assam,Guwahati,Debit Card,Standard,Delivered,Corporate
+ORD1259,2026-03-08,CUST2259,Hazel Sengupta,Electronics,Monitor,6,2378,14268,10762.55,3505.45,24.56861508,South,Karnataka,Bengaluru,Debit Card,Standard,Returned,Corporate
+ORD1260,2026-03-09,CUST2260,Prerak Bedi,Furniture,Study Table,5,10661,53305,35134.27,18170.73,34.08822812,West,Goa,Panaji,UPI,Standard,Pending,Home Office
+ORD1261,2026-03-10,CUST2261,Saira Raja,Grocery,Healthy Snacks,3,7749,23247,18808.12,4438.88,19.09442079,East,West Bengal,Kolkata,COD,Express,Delivered,Home Office
+ORD1262,2026-03-11,CUST2262,Kabir Bhavsar,Furniture,Study Table,4,13814,55256,35728.93,19527.07,35.33927537,East,Assam,Guwahati,Debit Card,Standard,Returned,Corporate
+ORD1263,2026-03-12,CUST2263,Yakshit Magar,Grocery,Healthy Snacks,1,1052,1052,654.25,397.75,37.80893536,West,Maharashtra,Mumbai,Credit Card,Express,Pending,Consumer
+ORD1264,2026-03-13,CUST2264,Zain Vig,Furniture,Study Table,6,2461,14766,11725.27,3040.73,20.59278071,East,Odisha,Bhubaneswar,UPI,Express,Pending,Consumer
+ORD1265,2026-03-14,CUST2265,Nakul Kothari,Grocery,Healthy Snacks,6,3011,18066,11045.43,7020.57,38.86067752,East,Odisha,Bhubaneswar,UPI,Standard,Delivered,Consumer
+ORD1266,2026-03-15,CUST2266,Rasha Balasubramanian,Furniture,Office Chair,2,10026,20052,13029.03,7022.97,35.02378815,West,Maharashtra,Mumbai,Debit Card,Standard,Pending,Home Office
+ORD1267,2026-03-16,CUST2267,Madhup Madan,Fashion,Jeans,1,4051,4051,2772,1279,31.57245125,North,Delhi,New Delhi,Debit Card,Express,Delivered,Corporate
+ORD1268,2026-03-17,CUST2268,Darshit Jhaveri,Fashion,Formal Shirt,6,2640,15840,9742.4,6097.6,38.49494949,North,Punjab,Amritsar,Debit Card,Standard,Returned,Home Office
+ORD1269,2026-03-18,CUST2269,Shanaya Acharya,Fashion,Jeans,5,11548,57740,40263.51,17476.49,30.26756148,South,Telangana,Hyderabad,Credit Card,Standard,Returned,Home Office
+ORD1270,2026-03-19,CUST2270,Samiha Rege,Furniture,Bookshelf,4,5452,21808,16880.2,4927.8,22.59629494,South,Tamil Nadu,Chennai,UPI,Standard,Returned,Home Office
+ORD1271,2026-03-20,CUST2271,Mahika Mann,Beauty,Nail Kit,5,4968,24840,19160.91,5679.09,22.86268116,North,Uttar Pradesh,Lucknow,Net Banking,Standard,Returned,Corporate
+ORD1272,2026-03-21,CUST2272,Hridaan Goel,Grocery,Healthy Snacks,1,13141,13141,10480.48,2660.52,20.2459478,South,Andhra Pradesh,Vijayawada,UPI,Standard,Pending,Home Office
+ORD1273,2026-03-22,CUST2273,Ritvik Bumb,Beauty,Skin Care Kit,5,14860,74300,60561.43,13738.57,18.49067295,East,Assam,Guwahati,COD,Express,Pending,Home Office
+ORD1274,2026-03-23,CUST2274,Navya Badami,Fashion,Winter Hoodie,4,12921,51684,31840.35,19843.65,38.39418389,North,Delhi,New Delhi,Credit Card,Standard,Delivered,Corporate
+ORD1275,2026-03-24,CUST2275,Amani Dalal,Beauty,Hair Dryer,6,11975,71850,51030.08,20819.92,28.97692415,West,Goa,Panaji,COD,Standard,Returned,Home Office
+ORD1276,2026-03-25,CUST2276,Samaira Raj,Beauty,Shampoo Combo,2,4846,9692,5993.45,3698.55,38.16085431,North,Punjab,Amritsar,Net Banking,Express,Pending,Home Office
+ORD1277,2026-03-26,CUST2277,Lakshay Magar,Electronics,Monitor,6,7467,44802,34075.99,10726.01,23.94091782,South,Telangana,Hyderabad,UPI,Express,Delivered,Corporate
+ORD1278,2026-03-27,CUST2278,Ritvik Sandal,Beauty,Shampoo Combo,1,5367,5367,4006.67,1360.33,25.34618968,South,Telangana,Hyderabad,Credit Card,Standard,Delivered,Corporate
+ORD1279,2026-03-28,CUST2279,Miraan Lall,Grocery,Tea Pack,5,13128,65640,51261.66,14378.34,21.90484461,East,Odisha,Bhubaneswar,Credit Card,Express,Returned,Consumer
+ORD1280,2026-03-29,CUST2280,Alisha Tripathi,Electronics,Tablet,4,4756,19024,13606.88,5417.12,28.47518923,East,West Bengal,Kolkata,COD,Express,Delivered,Corporate
+ORD1281,2026-03-30,CUST2281,Fateh Das,Beauty,Perfume Set,3,2877,8631,5663.02,2967.98,34.38744062,North,Delhi,New Delhi,Net Banking,Standard,Delivered,Consumer
+ORD1282,2026-03-31,CUST2282,Abram Chandra,Fashion,Running Shoes,4,6263,25052,17141.97,7910.03,31.57444515,South,Karnataka,Bengaluru,Net Banking,Express,Delivered,Corporate
+ORD1283,2026-04-01,CUST2283,Faiyaz Sane,Fashion,Jeans,6,5541,33246,21931.61,11314.39,34.03233472,North,Uttar Pradesh,Lucknow,Net Banking,Standard,Delivered,Consumer
+ORD1284,2026-04-02,CUST2284,Manjari Deo,Beauty,Skin Care Kit,4,1429,5716,4532.43,1183.57,20.70626312,East,Assam,Guwahati,UPI,Express,Delivered,Corporate
+ORD1285,2026-04-03,CUST2285,Shamik Virk,Fashion,Handbag,5,13153,65765,43856.05,21908.95,33.31399681,South,Andhra Pradesh,Vijayawada,Net Banking,Express,Delivered,Home Office
+ORD1286,2026-04-04,CUST2286,Aradhya Raju,Beauty,Perfume Set,2,404,808,650.54,157.46,19.48762376,North,Punjab,Amritsar,Debit Card,Standard,Pending,Consumer
+ORD1287,2026-04-05,CUST2287,Tejas Balakrishnan,Furniture,Bedside Table,6,5338,32028,19949.24,12078.76,37.71312601,South,Andhra Pradesh,Vijayawada,UPI,Standard,Returned,Corporate
+ORD1288,2026-04-06,CUST2288,Kavya Hegde,Electronics,Wireless Mouse,2,14152,28304,20218.88,8085.12,28.56529112,East,Jharkhand,Ranchi,Net Banking,Standard,Returned,Consumer
+ORD1289,2026-04-07,CUST2289,Krish Amble,Furniture,Office Chair,5,9603,48015,29466.91,18548.09,38.62978236,South,Karnataka,Bengaluru,Debit Card,Express,Pending,Home Office
+ORD1290,2026-04-08,CUST2290,Shaan Golla,Grocery,Olive Oil,4,4755,19020,12389.52,6630.48,34.86056782,South,Karnataka,Bengaluru,UPI,Standard,Delivered,Consumer
+ORD1291,2026-04-09,CUST2291,Aayush Cherian,Furniture,Coffee Table,3,6960,20880,13082.62,7797.38,37.34377395,East,Odisha,Bhubaneswar,Debit Card,Express,Pending,Consumer
+ORD1292,2026-04-10,CUST2292,Jayan Bali,Electronics,Smart Watch,6,5284,31704,24786.35,6917.65,21.8194865,North,Punjab,Amritsar,Credit Card,Standard,Returned,Consumer
+ORD1293,2026-04-11,CUST2293,Alisha Garg,Grocery,Coffee Powder,5,1102,5510,4126.88,1383.12,25.10199637,East,Odisha,Bhubaneswar,COD,Express,Returned,Home Office
+ORD1294,2026-04-12,CUST2294,Piya Upadhyay,Beauty,Perfume Set,1,7870,7870,4898.44,2971.56,37.75806861,South,Telangana,Hyderabad,UPI,Standard,Delivered,Consumer
+ORD1295,2026-04-13,CUST2295,Purab Bhatia,Furniture,Bookshelf,6,10626,63756,51404.33,12351.67,19.37334525,North,Uttar Pradesh,Lucknow,UPI,Standard,Delivered,Home Office
+ORD1296,2026-04-14,CUST2296,Jhanvi Banik,Furniture,Study Table,1,14181,14181,11096.04,3084.96,21.75417813,East,West Bengal,Kolkata,COD,Standard,Delivered,Home Office
+ORD1297,2026-04-15,CUST2297,Aarna Rattan,Furniture,Bedside Table,4,8428,33712,20445.86,13266.14,39.35138823,West,Gujarat,Ahmedabad,Credit Card,Standard,Pending,Corporate
+ORD1298,2026-04-16,CUST2298,Hansh Rastogi,Furniture,Study Table,1,10361,10361,7627.96,2733.04,26.37814883,South,Tamil Nadu,Chennai,COD,Express,Delivered,Consumer
+ORD1299,2026-04-17,CUST2299,Nehmat Saini,Grocery,Coffee Powder,2,7168,14336,9230.67,5105.33,35.61195592,South,Telangana,Hyderabad,Debit Card,Express,Returned,Corporate
+ORD1300,2026-04-18,CUST2300,Riaan Subramaniam,Grocery,Tea Pack,5,5569,27845,19086.18,8758.82,31.45562938,South,Telangana,Hyderabad,Net Banking,Standard,Delivered,Corporate
+ORD1301,2026-04-19,CUST2301,Ayesha Dey,Electronics,Power Bank,5,6156,30780,23660.75,7119.25,23.12946719,South,Karnataka,Bengaluru,Credit Card,Standard,Pending,Home Office
+ORD1302,2026-04-20,CUST2302,Siya Hari,Electronics,Keyboard,5,14169,70845,57822.71,13022.29,18.38138189,West,Rajasthan,Jaipur,Credit Card,Standard,Returned,Corporate
+ORD1303,2026-04-21,CUST2303,Raunak Sekhon,Grocery,Tea Pack,1,11825,11825,8917.51,2907.49,24.58765328,South,Karnataka,Bengaluru,Net Banking,Express,Delivered,Corporate
+ORD1304,2026-04-22,CUST2304,Anaya Vala,Electronics,Bluetooth Speaker,1,4111,4111,3010.76,1100.24,26.76331793,North,Haryana,Gurugram,Debit Card,Standard,Delivered,Corporate
+ORD1305,2026-04-23,CUST2305,Aarav Balay,Fashion,Winter Hoodie,3,1275,3825,2313.44,1511.56,39.5179085,South,Telangana,Hyderabad,Debit Card,Standard,Pending,Home Office
+ORD1306,2026-04-24,CUST2306,Nayantara Dani,Furniture,Dining Table,1,5814,5814,3874.38,1939.62,33.36119711,South,Karnataka,Bengaluru,COD,Express,Delivered,Home Office
+ORD1307,2026-04-25,CUST2307,Rhea Shroff,Beauty,Nail Kit,5,13194,65970,44760.75,21209.25,32.14984084,South,Andhra Pradesh,Vijayawada,Debit Card,Standard,Delivered,Home Office
+ORD1308,2026-04-26,CUST2308,Anahita Chaudhry,Electronics,Webcam,5,830,4150,2656.24,1493.76,35.99421687,East,Odisha,Bhubaneswar,Net Banking,Standard,Pending,Consumer
+ORD1309,2026-04-27,CUST2309,Yashvi Iyer,Grocery,Healthy Snacks,1,4199,4199,2839.78,1359.22,32.37008812,East,Odisha,Bhubaneswar,UPI,Express,Pending,Consumer
+ORD1310,2026-04-28,CUST2310,Rohan Boase,Grocery,Dry Fruits Pack,2,11656,23312,14334.9,8977.1,38.50849348,East,West Bengal,Kolkata,UPI,Express,Pending,Home Office
+ORD1311,2026-04-29,CUST2311,Kartik Savant,Furniture,Study Table,4,8378,33512,26608.18,6903.82,20.60103843,East,Jharkhand,Ranchi,COD,Standard,Delivered,Corporate
+ORD1312,2026-04-30,CUST2312,Ryan Rajagopal,Electronics,Wireless Mouse,3,628,1884,1262.5,621.5,32.98832272,North,Delhi,New Delhi,Credit Card,Express,Delivered,Home Office
+ORD1313,2026-05-01,CUST2313,Tara Garde,Electronics,Bluetooth Speaker,3,10032,30096,24581.23,5514.77,18.32393009,West,Maharashtra,Mumbai,Credit Card,Express,Delivered,Consumer
+ORD1314,2026-05-02,CUST2314,Nitara Bhatia,Electronics,Tablet,2,3412,6824,4708.84,2115.16,30.99589683,East,Assam,Guwahati,Credit Card,Standard,Delivered,Corporate
+ORD1315,2026-05-03,CUST2315,Aarna Sanghvi,Beauty,Shampoo Combo,4,2816,11264,6893.47,4370.53,38.80087003,North,Haryana,Gurugram,Debit Card,Express,Delivered,Consumer
+ORD1316,2026-05-04,CUST2316,Anaya Goswami,Electronics,Keyboard,2,10756,21512,14288.24,7223.76,33.58014132,North,Haryana,Gurugram,Debit Card,Express,Pending,Corporate
+ORD1317,2026-05-05,CUST2317,Farhan Doctor,Grocery,Organic Rice,6,9214,55284,37883.69,17400.31,31.47440489,East,Jharkhand,Ranchi,Credit Card,Express,Delivered,Corporate
+ORD1318,2026-05-06,CUST2318,Neysa Sinha,Furniture,Coffee Table,3,4006,12018,9424,2594,21.58429023,North,Punjab,Amritsar,UPI,Standard,Returned,Corporate
+ORD1319,2026-05-07,CUST2319,Ishita Kunda,Beauty,Lipstick Set,5,4027,20135,14533.29,5601.71,27.82075987,West,Goa,Panaji,COD,Standard,Pending,Corporate
+ORD1320,2026-05-08,CUST2320,Uthkarsh Comar,Electronics,Webcam,6,868,5208,3700.09,1507.91,28.95372504,South,Telangana,Hyderabad,Credit Card,Standard,Delivered,Consumer
+ORD1321,2026-05-09,CUST2321,Ahana  Banerjee,Fashion,Running Shoes,4,1583,6332,5175.91,1156.09,18.2578964,West,Gujarat,Ahmedabad,Credit Card,Express,Pending,Home Office
+ORD1322,2026-05-10,CUST2322,Hazel Sarna,Electronics,Bluetooth Speaker,4,9415,37660,25888.17,11771.83,31.25817844,East,Assam,Guwahati,COD,Standard,Returned,Home Office
+ORD1323,2026-05-11,CUST2323,Zara Sarkar,Beauty,Shampoo Combo,4,2143,8572,5924.77,2647.23,30.88229118,South,Telangana,Hyderabad,Net Banking,Standard,Pending,Home Office
+ORD1324,2026-05-12,CUST2324,Hunar Rajagopal,Grocery,Coffee Powder,3,6575,19725,14676.45,5048.55,25.59467681,West,Maharashtra,Mumbai,Debit Card,Express,Delivered,Home Office
+ORD1325,2026-05-13,CUST2325,Arhaan Shan,Beauty,Nail Kit,6,6881,41286,25123.86,16162.14,39.14678099,East,Odisha,Bhubaneswar,COD,Express,Pending,Consumer
+ORD1326,2026-05-14,CUST2326,Indrajit Wagle,Grocery,Olive Oil,3,4893,14679,11529.27,3149.73,21.45738811,North,Punjab,Amritsar,Debit Card,Express,Pending,Corporate
+ORD1327,2026-05-15,CUST2327,Urvi Bora,Furniture,Dining Table,6,1762,10572,6780.31,3791.69,35.86539917,South,Andhra Pradesh,Vijayawada,Net Banking,Express,Delivered,Home Office
+ORD1328,2026-05-16,CUST2328,Uthkarsh Chada,Fashion,Running Shoes,3,11925,35775,25453.73,10321.27,28.85051013,South,Telangana,Hyderabad,Credit Card,Standard,Delivered,Consumer
+ORD1329,2026-05-17,CUST2329,Farhan Bala,Electronics,Power Bank,1,6204,6204,4684.14,1519.86,24.49806576,East,Assam,Guwahati,Net Banking,Express,Returned,Consumer
+ORD1330,2026-05-18,CUST2330,Romil Kannan,Electronics,Keyboard,3,8308,24924,18211.71,6712.29,26.93103033,South,Andhra Pradesh,Vijayawada,Net Banking,Express,Pending,Consumer
+ORD1331,2026-05-19,CUST2331,Baiju Khanna,Grocery,Healthy Snacks,6,1780,10680,7077.8,3602.2,33.72846442,West,Maharashtra,Mumbai,Net Banking,Standard,Delivered,Home Office
+ORD1332,2026-05-20,CUST2332,Jhanvi Khurana,Fashion,Formal Shirt,2,4708,9416,6999.38,2416.62,25.66503823,North,Delhi,New Delhi,Credit Card,Standard,Returned,Consumer
+ORD1333,2026-05-21,CUST2333,Himmat Balay,Fashion,Handbag,5,13490,67450,54463.25,12986.75,19.25389177,East,Jharkhand,Ranchi,Debit Card,Express,Pending,Consumer
+ORD1334,2026-05-22,CUST2334,Himmat Kulkarni,Furniture,Bookshelf,6,8830,52980,41395.84,11584.16,21.86515666,West,Maharashtra,Mumbai,Net Banking,Express,Returned,Home Office
+ORD1335,2026-05-23,CUST2335,Divij Lall,Beauty,Shampoo Combo,3,5190,15570,11686.39,3883.61,24.94290302,West,Maharashtra,Mumbai,Debit Card,Express,Pending,Corporate
+ORD1336,2026-05-24,CUST2336,Mehul Gala,Grocery,Dry Fruits Pack,2,8775,17550,13485.5,4064.5,23.15954416,North,Haryana,Gurugram,Debit Card,Standard,Returned,Consumer
+ORD1337,2026-05-25,CUST2337,Aayush Goyal,Furniture,Bookshelf,3,7157,21471,14793.77,6677.23,31.09883098,North,Punjab,Amritsar,Credit Card,Express,Returned,Corporate
+ORD1338,2026-05-26,CUST2338,Abram Maharaj,Beauty,Hair Dryer,2,14073,28146,20959.63,7186.37,25.53247353,South,Tamil Nadu,Chennai,COD,Standard,Returned,Corporate
+ORD1339,2026-05-27,CUST2339,Zaina Mangal,Beauty,Perfume Set,6,5799,34794,25885.89,8908.11,25.60243145,South,Tamil Nadu,Chennai,Debit Card,Express,Pending,Corporate
+ORD1340,2026-05-28,CUST2340,Lakshit Bhakta,Grocery,Tea Pack,3,7898,23694,18653.51,5040.49,21.27327593,West,Maharashtra,Mumbai,Net Banking,Standard,Pending,Consumer
+ORD1341,2026-05-29,CUST2341,Bhamini Ghose,Beauty,Skin Care Kit,6,6553,39318,28173.88,11144.12,28.34355766,West,Maharashtra,Mumbai,Credit Card,Standard,Pending,Corporate
+ORD1342,2026-05-30,CUST2342,Hansh Ratti,Beauty,Lipstick Set,2,5483,10966,8660.14,2305.86,21.02735729,South,Telangana,Hyderabad,Debit Card,Standard,Pending,Home Office
+ORD1343,2026-05-31,CUST2343,Jayesh Venkatesh,Electronics,Wireless Mouse,4,4781,19124,12355.33,6768.67,35.39358921,South,Karnataka,Bengaluru,UPI,Standard,Returned,Corporate
+ORD1344,2026-06-01,CUST2344,Amira Tailor,Furniture,Coffee Table,4,8121,32484,22229.76,10254.24,31.56704839,North,Punjab,Amritsar,UPI,Express,Returned,Consumer
+ORD1345,2026-06-02,CUST2345,Shray Tank,Electronics,Wireless Mouse,6,12319,73914,48394.53,25519.47,34.52589496,East,Assam,Guwahati,UPI,Express,Returned,Home Office
+ORD1346,2026-06-03,CUST2346,Bhamini Sahota,Grocery,Dry Fruits Pack,1,13797,13797,8416.97,5380.03,38.99420164,East,Jharkhand,Ranchi,Net Banking,Express,Pending,Home Office
+ORD1347,2026-06-04,CUST2347,Dhruv Venkataraman,Fashion,Handbag,4,6185,24740,18926.73,5813.27,23.49745352,South,Andhra Pradesh,Vijayawada,Credit Card,Standard,Returned,Consumer
+ORD1348,2026-06-05,CUST2348,Trisha Suri,Fashion,Formal Shirt,1,9961,9961,7082.46,2878.54,28.8981026,North,Uttar Pradesh,Lucknow,UPI,Express,Returned,Corporate
+ORD1349,2026-06-06,CUST2349,Hiran Bava,Beauty,Shampoo Combo,1,10030,10030,8212.86,1817.14,18.11704885,North,Delhi,New Delhi,UPI,Express,Pending,Corporate
+ORD1350,2026-06-07,CUST2350,Alia Shanker,Electronics,Monitor,4,11799,47196,29907.54,17288.46,36.63119756,North,Uttar Pradesh,Lucknow,UPI,Express,Returned,Home Office
